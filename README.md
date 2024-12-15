@@ -8,10 +8,6 @@ A lightweight text editor built with Java Swing that provides basic text editing
 - Simple and intuitive user interface.
 - Built with Java Swing for cross-platform compatibility.
 
-## Screenshots
-
-*Include a screenshot of your application here.*
-
 ## Requirements
 
 - Java Development Kit (JDK) 8 or higher.
