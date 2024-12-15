@@ -16,7 +16,7 @@ A lightweight text editor built with Java Swing that provides basic text editing
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/java-swing-text-editor.git
+   git clone https://github.com/jersoncaibog/java-swing-text-editor.git
    ```
 
 2. Navigate to the project directory:
